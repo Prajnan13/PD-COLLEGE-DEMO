@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  backend:
+    build: ./backend
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - ./backend:/app
+      - ./data:/app/data
+    ports:
+      - "8000:8000"
+    environment:
+      - STORAGE_DIR=/tmp/digital_kyc_storage
+  dashboard:
+    build: ./web-dashboard
+    command: python app.py
+    volumes:
+      - ./web-dashboard:/app
+    ports:
+      - "5001:5001"

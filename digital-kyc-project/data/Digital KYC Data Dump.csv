@@ -1,0 +1,402 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,S.No.,Customer ID,Stage Name,Attempt Count,Failure Percentage,Time Taken (in seconds),Error
+,1,2815597,Upload Document,1,0.15,16,Upload the Selected Document
+,2,2738532,Document Scan,3,0.3,39,Please scan the correct document 
+,3,4110529,Document Scan,2,0.2,25,Please scan the correct document 
+,4,2992473,KYC Check,3,0.3,32,KYC data not found; please upload correct KYC
+,5,4205534,KYC Approved,1,0,15,KYC Successful
+,6,3980339,Select Document Type,3,0.15,28,Please select correct document type
+,7,3805421,Upload Document,2,0.4,26,Please upload the correct selected document
+,8,3677810,Document Scan,1,0.1,16,Proceed to Document Upload
+,9,2886682,KYC Check,3,0.6,38,KYC data not found; please upload correct KYC
+,10,4949923,Upload Document,1,0.1875,25,Upload the Selected Document
+,11,1889333,KYC Approved,1,0,16,KYC Successful
+,12,2613038,Upload Document,2,0.24,36,Please upload the correct selected document
+,13,1322575,Select Document Type,2,0.1,40,Please select correct document type
+,14,2611113,Document Scan,1,0.1,19,Proceed to Document Upload
+,15,4307578,Upload Document,1,0.075,21,Upload the Selected Document
+,16,4230543,Document Scan,3,0.3,30,Please scan the correct document 
+,17,2544830,Document Scan,2,0.2,26,Please scan the correct document 
+,18,2463113,KYC Check,3,0.6,47,KYC data not found; please upload correct KYC
+,19,4049174,Document Scan,3,0.3,29,Please scan the correct document 
+,20,4686248,Select Document Type,2,0.1,29,Please select correct document type
+,21,3992756,Upload Document,1,0.10344827586206896,23,Upload the Selected Document
+,22,4582556,Document Scan,1,0.1,25,Proceed to Document Upload
+,23,3460404,Document Scan,3,0.3,32,Please scan the correct document 
+,24,3744193,KYC Check,2,0.4,26,KYC data not found; please upload correct KYC
+,25,3582501,KYC Approved,1,0,18,KYC Successful
+,26,1447760,Select Document Type,1,0.05,15,Select Document Type - PAN/ Aadhar/ Voter
+,27,4862325,Upload Document,2,0.3333333333333333,31,Please upload the correct selected document
+,28,2553287,Document Scan,3,0.3,35,Please scan the correct document 
+,29,2274821,KYC Check,2,0.4,37,KYC data not found; please upload correct KYC
+,30,4440662,Upload Document,1,0.08571428571428572,16,Upload the Selected Document
+,31,2727455,KYC Approved,1,0,23,KYC Successful
+,32,2389841,Upload Document,3,0.5625,30,Please upload the correct selected document
+,33,3594541,Select Document Type,2,0.1,40,Please select correct document type
+,34,1603114,Document Scan,3,0.3,44,Please scan the correct document 
+,35,4992429,Upload Document,2,0.15,37,Please upload the correct selected document
+,36,5052107,Document Scan,1,0.1,20,Proceed to Document Upload
+,37,2597690,Document Scan,1,0.1,20,Proceed to Document Upload
+,38,2007113,KYC Check,3,0.6,43,KYC data not found; please upload correct KYC
+,39,2242528,Document Scan,2,0.2,39,Please scan the correct document 
+,40,4948843,Select Document Type,3,0.15,45,Please select correct document type
+,41,2598277,Upload Document,2,0.15384615384615385,30,Please upload the correct selected document
+,42,2594567,Document Scan,3,0.3,36,Please scan the correct document 
+,43,1676683,Document Scan,2,0.2,29,Please scan the correct document 
+,44,1553844,KYC Check,1,0.2,22,KYC check in progress please wait
+,45,2706028,KYC Approved,1,0,17,KYC Successful
+,46,2071386,Select Document Type,3,0.15,29,Please select correct document type
+,47,1002302,Upload Document,2,0.35294117647058826,33,Please upload the correct selected document
+,48,1708997,Document Scan,3,0.3,44,Please scan the correct document 
+,49,1399129,KYC Check,2,0.4,35,KYC data not found; please upload correct KYC
+,50,4458944,Upload Document,1,0.06818181818181818,21,Upload the Selected Document
+,51,1199069,KYC Approved,1,0,24,KYC Successful
+,52,3691136,Upload Document,3,0.42857142857142855,33,Please upload the correct selected document
+,53,3753888,Select Document Type,2,0.1,30,Please select correct document type
+,54,3986397,Document Scan,3,0.3,40,Please scan the correct document 
+,55,2447077,Upload Document,2,0.2,27,Please upload the correct selected document
+,56,4937800,Document Scan,1,0.1,18,Proceed to Document Upload
+,57,3403105,Document Scan,1,0.1,15,Proceed to Document Upload
+,58,4416481,KYC Check,3,0.6,37,KYC data not found; please upload correct KYC
+,59,3290915,Document Scan,2,0.2,39,Please scan the correct document 
+,60,4176994,Select Document Type,1,0.05,23,Select Document Type - PAN/ Aadhar/ Voter
+,61,1743764,Upload Document,3,0.23076923076923078,37,Please upload the correct selected document
+,62,3133887,Document Scan,3,0.3,38,Please scan the correct document 
+,63,1572665,Document Scan,2,0.2,25,Please scan the correct document 
+,64,4723716,KYC Check,1,0.2,17,KYC check in progress please wait
+,65,3382697,KYC Approved,1,0,24,KYC Successful
+,66,3903258,Select Document Type,3,0.15,35,Please select correct document type
+,67,4498767,Upload Document,2,0.25,25,Please upload the correct selected document
+,68,4755573,Document Scan,3,0.3,36,Please scan the correct document 
+,69,4017802,KYC Check,2,0.4,36,KYC data not found; please upload correct KYC
+,70,1946570,Upload Document,1,0.08333333333333333,25,Upload the Selected Document
+,71,4339090,KYC Approved,1,0,24,KYC Successful
+,72,3513797,Upload Document,3,0.36,43,Please upload the correct selected document
+,73,1407665,Select Document Type,2,0.1,30,Please select correct document type
+,74,1694056,Document Scan,3,0.3,46,Please scan the correct document 
+,75,1354052,Upload Document,2,0.2,38,Please upload the correct selected document
+,76,3064409,Document Scan,1,0.1,17,Proceed to Document Upload
+,77,4241022,Document Scan,1,0.1,23,Proceed to Document Upload
+,78,3220253,KYC Check,3,0.6,45,KYC data not found; please upload correct KYC
+,79,3684024,Document Scan,2,0.2,27,Please scan the correct document 
+,80,1230156,Select Document Type,1,0.05,19,Select Document Type - PAN/ Aadhar/ Voter
+,81,1690938,Upload Document,2,0.2222222222222222,35,Please upload the correct selected document
+,82,3412158,Document Scan,3,0.3,28,Please scan the correct document 
+,83,1583493,Document Scan,2,0.2,25,Please scan the correct document 
+,84,5018006,KYC Check,1,0.2,23,KYC check in progress please wait
+,85,2367576,KYC Approved,1,0,25,KYC Successful
+,86,3319455,Select Document Type,3,0.15,47,Please select correct document type
+,87,4737021,Upload Document,2,0.24,33,Please upload the correct selected document
+,88,2495649,Document Scan,3,0.3,35,Please scan the correct document 
+,89,3411883,KYC Check,2,0.4,30,KYC data not found; please upload correct KYC
+,90,2558590,Upload Document,1,0.08571428571428572,21,Upload the Selected Document
+,91,4579831,KYC Approved,1,0,20,KYC Successful
+,92,4719332,Upload Document,3,0.42857142857142855,42,Please upload the correct selected document
+,93,3012328,Select Document Type,2,0.1,37,Please select correct document type
+,94,2177801,Document Scan,3,0.3,45,Please scan the correct document 
+,95,1294177,Upload Document,2,0.16216216216216217,26,Please upload the correct selected document
+,96,4119819,Document Scan,1,0.1,20,Proceed to Document Upload
+,97,5048110,Document Scan,1,0.1,20,Proceed to Document Upload
+,98,3835441,KYC Check,3,0.6,39,KYC data not found; please upload correct KYC
+,99,5002005,Document Scan,2,0.2,31,Please scan the correct document 
+,100,5016021,Select Document Type,1,0.05,23,Select Document Type - PAN/ Aadhar/ Voter
+,101,3597484,Upload Document,2,0.1935483870967742,35,Please upload the correct selected document
+,102,2388949,Document Scan,3,0.3,39,Please scan the correct document 
+,103,2388867,Document Scan,2,0.2,40,Please scan the correct document 
+,104,4347089,KYC Check,1,0.2,24,KYC check in progress please wait
+,105,4944063,KYC Approved,1,0,24,KYC Successful
+,106,3803236,Select Document Type,3,0.15,38,Please select correct document type
+,107,2947787,Upload Document,2,0.25,32,Please upload the correct selected document
+,108,1503525,Document Scan,3,0.3,45,Please scan the correct document 
+,109,2013655,KYC Check,2,0.4,28,KYC data not found; please upload correct KYC
+,110,2184845,Upload Document,1,0.06666666666666667,18,Upload the Selected Document
+,111,2218301,KYC Approved,1,0,25,KYC Successful
+,112,2242823,Upload Document,3,0.5,30,Please upload the correct selected document
+,113,4011801,Select Document Type,2,0.1,31,Please select correct document type
+,114,2263256,Document Scan,3,0.3,35,Please scan the correct document 
+,115,2886484,Upload Document,2,0.1935483870967742,25,Please upload the correct selected document
+,116,2940762,Document Scan,1,0.1,17,Proceed to Document Upload
+,117,3487702,Document Scan,1,0.1,25,Proceed to Document Upload
+,118,4682732,KYC Check,3,0.6,34,KYC data not found; please upload correct KYC
+,119,2918821,Document Scan,2,0.2,39,Please scan the correct document 
+,120,2036526,Select Document Type,2,0.1,40,Please select correct document type
+,121,1529774,Upload Document,3,0.23076923076923078,46,Please upload the correct selected document
+,122,3757226,Document Scan,3,0.3,37,Please scan the correct document 
+,123,2213103,Document Scan,2,0.2,39,Please scan the correct document 
+,124,2433407,KYC Check,1,0.2,18,KYC check in progress please wait
+,125,4605643,KYC Approved,1,0,16,KYC Successful
+,126,3418385,Select Document Type,3,0.15,39,Please select correct document type
+,127,4222817,Upload Document,2,0.375,35,Please upload the correct selected document
+,128,2614314,Document Scan,3,0.3,40,Please scan the correct document 
+,129,3749061,KYC Check,2,0.4,39,KYC data not found; please upload correct KYC
+,130,4776674,Upload Document,1,0.075,25,Upload the Selected Document
+,131,4885436,KYC Approved,1,0,17,KYC Successful
+,132,4552551,Upload Document,3,0.36,35,Please upload the correct selected document
+,133,4273339,Select Document Type,2,0.1,37,Please select correct document type
+,134,3049936,Document Scan,3,0.3,35,Please scan the correct document 
+,135,1771107,Upload Document,2,0.16216216216216217,29,Please upload the correct selected document
+,136,1070914,Document Scan,1,0.1,17,Proceed to Document Upload
+,137,2360051,Document Scan,1,0.1,21,Proceed to Document Upload
+,138,1479376,KYC Check,3,0.6,45,KYC data not found; please upload correct KYC
+,139,2186847,Document Scan,2,0.2,26,Please scan the correct document 
+,140,2403781,Select Document Type,3,0.15,31,Please select correct document type
+,141,4892496,Upload Document,1,0.11538461538461539,21,Upload the Selected Document
+,142,1921309,Document Scan,3,0.3,38,Please scan the correct document 
+,143,1400785,Document Scan,2,0.2,39,Please scan the correct document 
+,144,1426293,KYC Check,1,0.2,24,KYC check in progress please wait
+,145,1389124,KYC Approved,1,0,24,KYC Successful
+,146,2640883,Select Document Type,3,0.15,37,Please select correct document type
+,147,4027422,Upload Document,2,0.25,40,Please upload the correct selected document
+,148,3321041,Document Scan,3,0.3,45,Please scan the correct document 
+,149,2680363,KYC Check,2,0.4,39,KYC data not found; please upload correct KYC
+,150,3928914,Upload Document,1,0.06666666666666667,19,Upload the Selected Document
+,151,3428280,KYC Approved,1,0,22,KYC Successful
+,152,3737084,Upload Document,3,0.47368421052631576,38,Please upload the correct selected document
+,153,4468058,Select Document Type,2,0.1,35,Please select correct document type
+,154,2375651,Document Scan,3,0.3,43,Please scan the correct document 
+,155,1460737,Upload Document,2,0.17142857142857143,34,Please upload the correct selected document
+,156,3527895,Document Scan,1,0.1,16,Proceed to Document Upload
+,157,3102851,Document Scan,1,0.1,18,Proceed to Document Upload
+,158,3484186,KYC Check,3,0.6,28,KYC data not found; please upload correct KYC
+,159,1977928,Document Scan,2,0.2,35,Please scan the correct document 
+,160,4911101,Select Document Type,2,0.1,32,Please select correct document type
+,161,4714653,Upload Document,1,0.08571428571428572,18,Upload the Selected Document
+,162,3673552,Document Scan,3,0.3,33,Please scan the correct document 
+,163,1293151,Document Scan,2,0.2,28,Please scan the correct document 
+,164,1872049,KYC Check,1,0.2,24,KYC check in progress please wait
+,165,1003313,KYC Approved,1,0,19,KYC Successful
+,166,2760012,Select Document Type,3,0.15,41,Please select correct document type
+,167,3192893,Upload Document,2,0.3157894736842105,37,Please upload the correct selected document
+,168,1366919,Document Scan,3,0.3,31,Please scan the correct document 
+,169,3874655,KYC Check,2,0.4,25,KYC data not found; please upload correct KYC
+,170,4232518,Upload Document,1,0.0967741935483871,15,Upload the Selected Document
+,171,4124848,KYC Approved,1,0,23,KYC Successful
+,172,3961616,Upload Document,3,0.6,35,Please upload the correct selected document
+,173,3633560,Select Document Type,2,0.1,38,Please select correct document type
+,174,2451917,Document Scan,3,0.3,48,Please scan the correct document 
+,175,3561788,Upload Document,1,0.07894736842105263,21,Upload the Selected Document
+,176,2934085,Document Scan,3,0.3,29,Please scan the correct document 
+,177,2116610,Document Scan,3,0.3,32,Please scan the correct document 
+,178,2271752,KYC Check,3,0.6,43,KYC data not found; please upload correct KYC
+,179,3434408,Document Scan,1,0.1,22,Proceed to Document Upload
+,180,2573254,Select Document Type,1,0.05,15,Select Document Type - PAN/ Aadhar/ Voter
+,181,2994786,Upload Document,2,0.2727272727272727,36,Please upload the correct selected document
+,182,4362374,Document Scan,3,0.3,40,Please scan the correct document 
+,183,1443512,Document Scan,2,0.2,25,Please scan the correct document 
+,184,4707392,KYC Check,3,0.6,29,KYC data not found; please upload correct KYC
+,185,2970518,KYC Approved,3,0.15,36,KYC Successful
+,186,2004587,Select Document Type,1,0.05,18,Select Document Type - PAN/ Aadhar/ Voter
+,187,2373908,Upload Document,1,0.08333333333333333,18,Upload the Selected Document
+,188,3333036,Document Scan,2,0.2,25,Please scan the correct document 
+,189,2769365,KYC Check,3,0.6,39,KYC data not found; please upload correct KYC
+,190,1104480,Upload Document,2,0.24,26,Please upload the correct selected document
+,191,3178913,KYC Approved,3,0.15,35,KYC Successful
+,192,3539063,Upload Document,3,0.34615384615384615,37,Please upload the correct selected document
+,193,2000956,Select Document Type,1,0.05,20,Select Document Type - PAN/ Aadhar/ Voter
+,194,2206894,Document Scan,1,0.1,20,Proceed to Document Upload
+,195,1342724,Upload Document,2,0.3,29,Please upload the correct selected document
+,196,4183820,Document Scan,3,0.3,33,Please scan the correct document 
+,197,2547050,Document Scan,2,0.2,35,Please scan the correct document 
+,198,1845117,KYC Check,3,0.6,29,KYC data not found; please upload correct KYC
+,199,5094912,Document Scan,3,0.3,40,Please scan the correct document 
+,200,2929923,Select Document Type,1,0.05,19,Select Document Type - PAN/ Aadhar/ Voter
+,201,4541625,Upload Document,1,0.075,18,Upload the Selected Document
+,202,4080487,Document Scan,2,0.2,26,Please scan the correct document 
+,203,3853418,Document Scan,3,0.3,45,Please scan the correct document 
+,204,2012099,KYC Check,2,0.4,37,KYC data not found; please upload correct KYC
+,205,3346858,KYC Approved,3,0.15,45,KYC Successful
+,206,4305864,Select Document Type,3,0.15,44,Please select correct document type
+,207,2605027,Upload Document,1,0.06666666666666667,25,Upload the Selected Document
+,208,4241312,Document Scan,1,0.1,17,Proceed to Document Upload
+,209,1825651,KYC Check,2,0.4,40,KYC data not found; please upload correct KYC
+,210,4937854,Upload Document,3,0.5294117647058824,36,Please upload the correct selected document
+,211,1041822,KYC Approved,2,0.1,33,KYC Successful
+,212,3918234,Upload Document,3,0.25,44,Please upload the correct selected document
+,213,2626043,Select Document Type,3,0.15,37,Please select correct document type
+,214,1489849,Document Scan,1,0.1,21,Proceed to Document Upload
+,215,3209543,Upload Document,1,0.08108108108108109,24,Upload the Selected Document
+,216,1758338,Document Scan,2,0.2,25,Please scan the correct document 
+,217,2516312,Document Scan,3,0.3,36,Please scan the correct document 
+,218,4087825,KYC Check,2,0.4,30,KYC data not found; please upload correct KYC
+,219,3975187,Document Scan,3,0.3,39,Please scan the correct document 
+,220,1566080,Select Document Type,3,0.15,46,Please select correct document type
+,221,4144403,Upload Document,1,0.07692307692307693,23,Upload the Selected Document
+,222,4043429,Document Scan,1,0.1,22,Proceed to Document Upload
+,223,3979792,Document Scan,2,0.2,36,Please scan the correct document 
+,224,2435785,KYC Check,3,0.6,30,KYC data not found; please upload correct KYC
+,225,3119378,KYC Approved,2,0.1,25,KYC Successful
+,226,4488550,Select Document Type,1,0.05,23,Select Document Type - PAN/ Aadhar/ Voter
+,227,2022670,Upload Document,2,0.24,27,Please upload the correct selected document
+,228,4476493,Document Scan,3,0.3,35,Please scan the correct document 
+,229,2901169,KYC Check,2,0.4,28,KYC data not found; please upload correct KYC
+,230,1445536,Upload Document,1,0.08571428571428572,15,Upload the Selected Document
+,231,4139472,KYC Approved,1,0,24,KYC Successful
+,232,4892203,Upload Document,3,0.6,39,Please upload the correct selected document
+,233,2330624,Select Document Type,2,0.1,40,Please select correct document type
+,234,2505244,Document Scan,3,0.3,42,Please scan the correct document 
+,235,1406585,Upload Document,1,0.075,17,Upload the Selected Document
+,236,5008451,Document Scan,3,0.3,41,Please scan the correct document 
+,237,3515421,Document Scan,3,0.3,37,Please scan the correct document 
+,238,3984732,KYC Check,3,0.6,29,KYC data not found; please upload correct KYC
+,239,4496950,Document Scan,1,0.1,24,Proceed to Document Upload
+,240,3926589,Select Document Type,1,0.05,15,Select Document Type - PAN/ Aadhar/ Voter
+,241,4941171,Upload Document,2,0.25,36,Please upload the correct selected document
+,242,3295958,Document Scan,3,0.3,33,Please scan the correct document 
+,243,4144760,Document Scan,2,0.2,40,Please scan the correct document 
+,244,1252057,KYC Check,3,0.6,28,KYC data not found; please upload correct KYC
+,245,4818755,KYC Approved,3,0.15,30,KYC Successful
+,246,2657127,Select Document Type,1,0.05,22,Select Document Type - PAN/ Aadhar/ Voter
+,247,3071473,Upload Document,1,0.1,17,Upload the Selected Document
+,248,4512129,Document Scan,2,0.2,39,Please scan the correct document 
+,249,2162326,KYC Check,3,0.6,31,KYC data not found; please upload correct KYC
+,250,3259331,Upload Document,2,0.15384615384615385,35,Please upload the correct selected document
+,251,2164401,KYC Approved,3,0.15,29,KYC Successful
+,252,3287547,Upload Document,3,0.2571428571428571,29,Please upload the correct selected document
+,253,2726039,Select Document Type,1,0.05,22,Select Document Type - PAN/ Aadhar/ Voter
+,254,2257185,Document Scan,1,0.1,25,Proceed to Document Upload
+,255,4225486,Upload Document,2,0.2727272727272727,38,Please upload the correct selected document
+,256,4593197,Document Scan,3,0.3,43,Please scan the correct document 
+,257,3723393,Document Scan,2,0.2,25,Please scan the correct document 
+,258,4398514,KYC Check,3,0.6,42,KYC data not found; please upload correct KYC
+,259,1963227,Document Scan,3,0.3,31,Please scan the correct document 
+,260,2048799,Select Document Type,1,0.05,23,Select Document Type - PAN/ Aadhar/ Voter
+,261,2408739,Upload Document,1,0.0967741935483871,20,Upload the Selected Document
+,262,5010442,Document Scan,2,0.2,26,Please scan the correct document 
+,263,4458010,Document Scan,3,0.3,33,Please scan the correct document 
+,264,2939630,KYC Check,2,0.4,27,KYC document already exists; please upload correct KYC
+,265,4143122,KYC Approved,3,0.15,34,KYC Successful
+,266,1293528,Select Document Type,3,0.15,37,Please select correct document type
+,267,3184692,Upload Document,1,0.08823529411764706,24,Upload the Selected Document
+,268,1944127,Document Scan,1,0.1,19,Proceed to Document Upload
+,269,1095822,KYC Check,2,0.4,40,KYC document already exists; please upload correct KYC
+,270,3143908,Upload Document,3,0.47368421052631576,37,Please upload the correct selected document
+,271,1993151,KYC Approved,2,0.1,32,KYC Successful
+,272,4508615,Upload Document,3,0.24324324324324326,34,Please upload the correct selected document
+,273,3368147,Select Document Type,3,0.15,37,Please select correct document type
+,274,3124078,Document Scan,1,0.1,25,Proceed to Document Upload
+,275,3080354,Upload Document,1,0.08108108108108109,17,Upload the Selected Document
+,276,3097256,Document Scan,2,0.2,35,Please scan the correct document 
+,277,1367634,Document Scan,3,0.3,43,Please scan the correct document 
+,278,4616308,KYC Check,2,0.4,29,KYC document already exists; please upload correct KYC
+,279,1272011,Document Scan,3,0.3,44,Please scan the correct document 
+,280,4900840,Select Document Type,3,0.15,37,Please select correct document type
+,281,2388858,Upload Document,1,0.06818181818181818,17,Upload the Selected Document
+,282,2101980,Document Scan,1,0.1,25,Proceed to Document Upload
+,283,4276827,Document Scan,2,0.2,38,Please scan the correct document 
+,284,4725952,KYC Check,3,0.6,40,KYC data not found; please upload correct KYC
+,285,3847851,KYC Approved,2,0.1,26,KYC Successful
+,286,4542571,Select Document Type,3,0.15,37,Please select correct document type
+,287,4909270,Upload Document,3,0.34615384615384615,32,Please upload the correct selected document
+,288,4147237,Document Scan,3,0.3,47,Please scan the correct document 
+,289,1705651,KYC Check,2,0.4,37,KYC document already exists; please upload correct KYC
+,290,2478533,Upload Document,1,0.06382978723404255,18,Upload the Selected Document
+,291,4995159,KYC Approved,1,0,22,KYC Successful
+,292,1526242,Upload Document,3,0.5,39,Please upload the correct selected document
+,293,4692041,Select Document Type,2,0.1,40,Please select correct document type
+,294,3181013,Document Scan,3,0.3,29,Please scan the correct document 
+,295,4022988,Upload Document,1,0.075,20,Upload the Selected Document
+,296,2920400,Document Scan,3,0.3,32,Please scan the correct document 
+,297,4865057,Document Scan,3,0.3,46,Please scan the correct document 
+,298,3808791,KYC Check,3,0.6,43,KYC data not found; please upload correct KYC
+,299,4332151,Document Scan,1,0.1,20,Proceed to Document Upload
+,300,3496478,Select Document Type,1,0.05,24,Select Document Type - PAN/ Aadhar/ Voter
+,301,2566925,Upload Document,2,0.3,31,Please upload the correct selected document
+,302,1530074,Document Scan,3,0.3,43,Please scan the correct document 
+,303,3228599,Document Scan,2,0.2,28,Please scan the correct document 
+,304,4511050,KYC Check,3,0.6,32,KYC document already exists; please upload correct KYC
+,305,1170241,KYC Approved,3,0.15,38,KYC Successful
+,306,2993024,Select Document Type,1,0.05,17,Select Document Type - PAN/ Aadhar/ Voter
+,307,4694257,Upload Document,1,0.07894736842105263,19,Upload the Selected Document
+,308,4860026,Document Scan,2,0.2,27,Please scan the correct document 
+,309,3340656,KYC Check,3,0.6,40,KYC document already exists; please upload correct KYC
+,310,1845364,Upload Document,2,0.2222222222222222,39,Please upload the correct selected document
+,311,2060856,KYC Approved,3,0.15,34,KYC Successful
+,312,2194692,Upload Document,3,0.23076923076923078,40,Please upload the correct selected document
+,313,3514728,Select Document Type,1,0.05,22,Select Document Type - PAN/ Aadhar/ Voter
+,314,2671985,Document Scan,1,0.1,21,Proceed to Document Upload
+,315,4519588,Upload Document,2,0.2727272727272727,30,Please upload the correct selected document
+,316,4663950,Document Scan,3,0.3,33,Please scan the correct document 
+,317,4445386,Document Scan,2,0.2,38,Please scan the correct document 
+,318,4749271,KYC Check,3,0.6,33,KYC document already exists; please upload correct KYC
+,319,4136548,Document Scan,3,0.3,38,Please scan the correct document 
+,320,4277638,Select Document Type,4,0.2,11,Maximum tries exceeded
+,321,3646168,Upload Document,1,0.07894736842105263,15,Upload the Selected Document
+,322,2009062,Document Scan,2,0.2,33,Please scan the correct document 
+,323,3304614,Document Scan,3,0.3,42,Please scan the correct document 
+,324,4437127,KYC Check,2,0.4,31,KYC document already exists; please upload correct KYC
+,325,3994949,KYC Approved,3,0.15,31,KYC Successful
+,326,1183376,Select Document Type,3,0.15,28,Please select correct document type
+,327,2230513,Upload Document,1,0.0967741935483871,18,Upload the Selected Document
+,328,3740437,Document Scan,1,0.1,22,Proceed to Document Upload
+,329,4744045,KYC Check,2,0.4,37,KYC document already exists; please upload correct KYC
+,330,4254205,Upload Document,3,0.4090909090909091,43,Please upload the correct selected document
+,331,4519664,KYC Approved,2,0.1,39,KYC Successful
+,332,2200951,Upload Document,3,0.20930232558139536,33,Please upload the correct selected document
+,333,2341113,Select Document Type,3,0.15,47,Please select correct document type
+,334,4547080,Document Scan,1,0.1,18,Proceed to Document Upload
+,335,2258442,Upload Document,4,0.2553191489361702,13,Maximum tries exceeded
+,336,2627359,Document Scan,2,0.2,31,Please scan the correct document 
+,337,2750223,Document Scan,3,0.3,39,Please scan the correct document 
+,338,3156814,KYC Check,2,0.4,28,KYC document already exists; please upload correct KYC
+,339,1749675,Document Scan,3,0.3,29,Please scan the correct document 
+,340,4279581,Select Document Type,3,0.15,33,Please select correct document type
+,341,3534477,Upload Document,4,0.41379310344827586,10,Maximum tries exceeded
+,342,2873924,Document Scan,1,0.1,17,Proceed to Document Upload
+,343,4124115,Document Scan,2,0.2,25,Please scan the correct document 
+,344,4643357,KYC Check,3,0.6,34,KYC document already exists; please upload correct KYC
+,345,2637989,KYC Approved,2,0.1,38,KYC Successful
+,346,3018472,Select Document Type,2,0.1,30,Please select correct document type
+,347,5013717,Upload Document,4,0.3157894736842105,12,Maximum tries exceeded
+,348,5072265,Document Scan,3,0.3,37,Please scan the correct document 
+,349,3999647,KYC Check,2,0.4,35,KYC document already exists; please upload correct KYC
+,350,3938882,Upload Document,4,0.32432432432432434,14,Maximum tries exceeded
+,351,5070426,KYC Approved,1,0,23,KYC Successful
+,352,4708598,Upload Document,3,0.6428571428571429,29,Please upload the correct selected document
+,353,1403580,Select Document Type,2,0.1,39,Please select correct document type
+,354,3712814,Document Scan,3,0.3,41,Please scan the correct document 
+,355,4368596,Upload Document,4,0.3076923076923077,14,Maximum upload tries exceeded
+,356,3783580,Document Scan,3,0.3,42,Please scan the correct document 
+,357,1655347,Document Scan,3,0.3,41,Please scan the correct document 
+,358,1700017,KYC Check,3,0.6,48,KYC document already exists; please upload correct KYC
+,359,3469060,Document Scan,1,0.1,15,Proceed to Document Upload
+,360,4838125,Select Document Type,4,0.2,13,Maximum tries exceeded
+,361,2735042,Upload Document,2,0.4,31,Please upload the correct selected document
+,362,2368804,Document Scan,3,0.3,39,Please scan the correct document 
+,363,3402872,Document Scan,2,0.2,33,Please scan the correct document 
+,364,3831961,KYC Check,3,0.6,28,KYC document already exists; please upload correct KYC
+,365,2379873,KYC Approved,3,0.15,48,KYC Successful
+,366,1078422,Select Document Type,4,0.2,13,Maximum tries exceeded
+,367,2837753,Upload Document,4,0.25,11,Maximum upload tries exceeded
+,368,1129210,Document Scan,2,0.2,33,Please scan the correct document 
+,369,1431245,KYC Check,3,0.6,34,KYC document already exists; please upload correct KYC
+,370,2433735,Upload Document,2,0.18181818181818182,38,Please upload the correct selected document
+,371,3279903,KYC Approved,3,0.15,37,KYC Successful
+,372,4516021,Upload Document,3,0.23684210526315788,38,Please upload the correct selected document
+,373,3494243,Select Document Type,4,0.2,12,Maximum tries exceeded
+,374,1219181,Document Scan,1,0.1,25,Proceed to Document Upload
+,375,3124496,Upload Document,2,0.5,25,Please upload the correct selected document
+,376,1069695,Document Scan,3,0.3,34,Please scan the correct document 
+,377,4601366,Document Scan,2,0.2,32,Please scan the correct document 
+,378,1169294,KYC Check,3,0.6,44,KYC document already exists; please upload correct KYC
+,379,4010024,Document Scan,3,0.3,43,Please scan the correct document 
+,380,3211275,Select Document Type,4,0.2,12,Maximum tries exceeded
+,381,2660598,Upload Document,4,0.27906976744186046,12,Maximum upload tries exceeded
+,382,1494585,Document Scan,2,0.2,34,Please scan the correct document 
+,383,4127052,Document Scan,3,0.3,29,Please scan the correct document 
+,384,2851755,KYC Check,2,0.4,29,KYC document already exists; please upload correct KYC
+,385,3324022,KYC Approved,3,0.15,37,KYC Successful
+,386,2184431,Select Document Type,3,0.15,28,Please select correct document type
+,387,4839488,Upload Document,4,0.32432432432432434,11,Maximum upload tries exceeded
+,388,3073798,Document Scan,1,0.1,18,Proceed to Document Upload
+,389,2222270,KYC Check,2,0.4,25,KYC document already exists; please upload correct KYC
+,390,1116728,Upload Document,3,0.5,31,Please upload the correct selected document
+,391,3104439,KYC Approved,2,0.1,31,KYC Successful
+,392,3705336,Upload Document,3,0.2903225806451613,42,Please upload the correct selected document
+,393,4445334,Select Document Type,3,0.15,46,Please select correct document type
+,394,5047108,Document Scan,1,0.1,23,Proceed to Document Upload
+,395,1841672,Upload Document,4,0.2608695652173913,12,Maximum upload tries exceeded
+,396,2744886,Document Scan,2,0.2,40,Please scan the correct document 
+,397,1265508,Document Scan,3,0.3,46,Please scan the correct document 
+,398,1298727,KYC Check,2,0.4,25,KYC document already exists; please upload correct KYC
+,399,2620202,Document Scan,3,0.3,28,Please scan the correct document 
+,400,2296231,Select Document Type,3,0.15,48,Please select correct document type
